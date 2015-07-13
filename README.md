@@ -1,4 +1,4 @@
-# babel-plugin-project-relative-require
+# babel-plugin-abs-require
 
-An example plugin for importing modules in Babel relative to the root.
-copied from FakeRainBrigand answer http://stackoverflow.com/a/31069137/1329668
+An plugin for importing modules in Babel relative with an absolute path.
+Based on FakeRainBrigand's answer http://stackoverflow.com/a/31069137/1329668/
